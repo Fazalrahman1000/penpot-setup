@@ -27,7 +27,7 @@ Once verified, you can execute the setup script directly from the Windows Comman
 1. Open **Command Prompt** (CMD).
 2. Navigate to your folder:
    ```cmd
-   cd %USERPROFILE%\Documents
+   cd /path/to/your/files
    ```
 3. Run the setup script:
    ```cmd
