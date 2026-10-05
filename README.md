@@ -30,8 +30,13 @@ Once verified, you can execute the setup script directly from the Windows Comman
    cd /path/to/your/files
    ```
 3. Run the setup script:
+   ### Windows
    ```cmd
-   setup.bat
+   penpot-setup.bat
+   ```
+   ### Linux
+   ```
+   penpot-setup.sh
    ```
 
 > 💡 **Note:** If the script requires administrative privileges, make sure to open Command Prompt by right-clicking it and selecting **"Run as administrator"**.
